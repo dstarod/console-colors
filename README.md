@@ -6,6 +6,16 @@
 
     pip3 install git+https://github.com/dstarodubtsev/console-colors
 
+#### ... or with requirements.txt
+    
+###### requirements.txt:
+
+    -e git+https://github.com/dstarodubtsev/console-colors#egg=ConsoleColors
+
+###### Install
+
+    pip3 install -r requirements.txt
+
 #### How to use:
 
     from console_colors import color

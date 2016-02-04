@@ -1,1 +1,1 @@
-from console-colors.colors import color
+from .colors import color

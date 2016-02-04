@@ -8,5 +8,5 @@ setup(name='ConsoleColors',
       author='Dmitry Starodubtsec',
       author_email='dmitry.starodubcev@gmail.com',
       url='https://dstarod.blogspot.com',
-      packages=['console-colors'],
+      packages=['console_colors'],
      )
